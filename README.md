@@ -23,5 +23,12 @@ the  second kind of type is -
 
 
 
+3rd kind of ideas for this project is - 
+
+
+• Neuro-Symbolic Theorem & Code Verifier. Wrap a coding agent inside a harness connected to formal verification tools like Lean 4, Z3, or strict property-based testing suites. Force the agent into a closed verification loop where proposed patches are rejected until they mathematically satisfy formal specifications.
+• Multi-Agent Adversarial Audit Harness. Construct an orchestration system where specialized sub-agents propose, critique, and formally verify complex multi-document claims, such as legal contracts or scientific literature. Track provenance down to exact page coordinates and enforce mandatory re-retrieval whenever a claim fails an automated evidence check.
+
+
 
 • Dynamic Context Compiler & Memory Paging. Design an operating-system-style memory manager for long-horizon tasks, similar to LoopX or RAGFlow. Implement automated context eviction, semantic compression, and progressive tool disclosure so an agent can execute 100+ step workflows without degrading reasoning or overflowing context limits.
